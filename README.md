@@ -7,7 +7,7 @@
 - Passionate about Web Development, Machine Learning, & Data Science.
 - Looking to collaborate with other developers. 
 - Learning more tools and technologies which are mentioned below to build big projects.
-- 
+ 
 ---
 
 ### 🧰 Toolbox
