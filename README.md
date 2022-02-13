@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=github&logoColor=4078c0)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-FFD43B?style=for-the-badge&logo=mysql&logoColor=306998)
-![](https://img.shields.io/badge/Figma-0078D6?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Figma-0000000?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
   
