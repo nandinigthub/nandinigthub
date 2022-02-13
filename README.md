@@ -1,11 +1,11 @@
-### Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Nandini Gattani is here!
+### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nandini Gattani.
 
 ---
 
 🎯 About Me
 - I'm a 1st-year B. Tech. (CSBS) student at School of Information Technology, RGPV.
 - Passionate about Web Development, Machine Learning, & Data Science.
-- Looking to collaborate with other developers. 
+- Looking forward to collaborate with other developers. 
 - Learning more tools and technologies which are mentioned below to build big projects.
  
 ---
