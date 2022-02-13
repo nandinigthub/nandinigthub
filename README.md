@@ -2,7 +2,7 @@
 
 ---
 
-###🎯 About Me
+🎯 About Me
 - I'm a 1st-year B. Tech. (CSBS) student at School of Information Technology, RGPV.
 - Passionate about Web Development, Machine Learning, & Data Science.
 - Looking to collaborate with other developers. 
