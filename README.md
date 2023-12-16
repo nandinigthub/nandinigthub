@@ -25,10 +25,3 @@
 ![](https://img.shields.io/badge/MySQL-FFD43B?style=for-the-badge&logo=mysql&logoColor=306998)
 ![](https://img.shields.io/badge/Figma-0000000?style=for-the-badge&logo=figma&logoColor=white)
 
-
-[ ---
-  
-## &#x1f4c8; My GitHub Stats
-| Nandini's GitHub Stats | GitHub Streak | 
-| --- | --- |
-[![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandini&show_icons=true)](https://github.com/nandinigthub) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nandinigthub)](https://github.com/nandinigthub) | ]: <>
