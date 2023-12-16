@@ -29,6 +29,6 @@
 ---
   
 ## &#x1f4c8; My GitHub Stats
-| Nandini's GitHub Stats | GitHub Streak |
-| --- | --- |
-[![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandini&show_icons=true)](https://github.com/nandinigthub) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nandinigthub)](https://github.com/nandinigthub) |
+## | Nandini's GitHub Stats | GitHub Streak |
+## | --- | --- |
+## [![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandini&show_icons=true)](https://github.com/nandinigthub) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nandinigthub)](https://github.com/nandinigthub) |
