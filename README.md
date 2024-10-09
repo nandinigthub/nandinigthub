@@ -3,9 +3,9 @@
 ---
 
 🎯 About Me
-- A pre-final year student pursuing bachelor's degree in computer science and business systems from School of Information Technology, RGPV, Bhopal.
+- Final year student pursuing bachelor's degree in computer science and business systems from School of Information Technology, RGPV, Bhopal.
 - Passionate about Web Development, Machine Learning, & Data Science.
-- Looking forward to collaborate with other developers. 
+- Looking forward to collaborating with other developers. 
 - Learning more tools and technologies which are mentioned below to build big projects.
  
 ---
