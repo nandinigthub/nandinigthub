@@ -4,7 +4,7 @@
 
 🎯 About Me
 - Final year student pursuing bachelor's degree in computer science and business systems from School of Information Technology, RGPV, Bhopal.
-- Passionate about Web Development, Machine Learning, & Data Science.
+- Passionate about GenAI, Retrieval Systems, AI Agents, Multimodal AI, Web Development, Machine Learning, & Data Science.
 - Looking forward to collaborating with other developers. 
 - Reach out to me via work.nandinigattani@gmail.com
  
